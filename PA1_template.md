@@ -5,7 +5,7 @@ processing by **knitr** and then transformed into an HTML file
 
 ## Loading (preprocessing) the data
 The Github repo contains the dataset for the assignment. But the script will
-download if necessary.
+download it if necessary.
 
 ```r
 f <- "activity.zip"
